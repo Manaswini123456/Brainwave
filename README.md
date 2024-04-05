@@ -1,6 +1,4 @@
-Certainly! Here's the full README for your React + Vite project template:
 
----
 
 # React + Vite
 
